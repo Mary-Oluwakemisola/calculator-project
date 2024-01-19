@@ -1,0 +1,31 @@
+.calculator {
+    width: 250px;
+    margin: 100px auto;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    background: purple;
+  }
+  
+  .calculator #display {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 3px;
+    font-size: 20px;
+  }
+  
+  .calculator .keys button {
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    font-size: 18px;
+    background: black;
+    color: white;
+  }
+  
+    #plusButton {
+      display: none;
+  }
+  
+  
